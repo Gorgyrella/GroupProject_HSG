@@ -1,8 +1,26 @@
-# GroupProject_HSG
-XYZ
+# Econometric Analysis of Time-Series Data
 
-Brush up knowledge with the references below. But if lazy, consider watching https://www.youtube.com/watch?v=Pg0RnP1uLVc
+This group project performs an econometric analysis of time-series data for a sample dataset. The aim is to learn how to inspact time-series data for stationarity and to provide two examples how non-stationary time-series can be transformed into stationary ones, which is necessary in econometrics before being able to make any meaningful statistical inferences.
 
+The project includes the following statistical analyses:
+* Visual inspection of time-series
+* ACF/PACF plots
+* Augmented Dickey-Fuller tests
+* ARMA(p,q) model selection with AIC and BIC
+* Coefficient tests
+* Ljung-Box test
+* Likelihood ratio tests
+
+The code is well commented as my aim was that anyone who finds my code on GitHub would be able to understand, modify and use it. It is split into a lot of sections which can be collapsed. Experience R coders can therefore easily skip sections that are not relevant for them.
+
+This project requires solid pre-existing knowledge in econometrics and time-series analysis. If you want to brush up you knowledge in any of these areas, please consult the material in the references section. Or, if you're lazy, have a quick into Ben Lambert's introduction to ARMA(1,1) models video on YouTube: https://www.youtube.com/watch?v=Pg0RnP1uLVc
+
+# How to run the code
+
+Running the code is very simple. Just perform the following steps:
+1) Download the "Econometric Analysis of Time-Series Data.R" file to the desired destination on your computer
+2) Download the "Data.csv" file to the desired destination on your computer
+3) Open the "Econometric Analysis of Time-Series Data.R" and just start running the code, no adjustment to any line of code should be needed
 
 # References
 * Enders, W. (2008). Applied econometric time series. John Wiley & Sons.
