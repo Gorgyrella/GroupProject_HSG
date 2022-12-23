@@ -5,7 +5,7 @@
 This group project performs an econometric analysis of time-series data for a sample dataset. The aim is to learn how to inspact time-series data for stationarity and to provide two examples how non-stationary time-series can be transformed into stationary ones, which is necessary in econometrics before being able to make any meaningful statistical inferences.
 
 The project includes the following statistical analyses:
-* Visual inspection of time-series
+* Visual inspection of time-series data
 * ACF/PACF plots
 * Augmented Dickey-Fuller tests
 * ARMA(p,q) model selection with AIC and BIC
